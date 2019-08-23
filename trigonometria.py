@@ -7,3 +7,4 @@ tan=co/ca
 print("Seno", sen)
 print("Coseno", cos)
 print("tangente", tan)
+print("Fin")
